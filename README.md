@@ -4,9 +4,9 @@
 ### I like programming and i like studying how computers work
 ### some about my skills:
 ### languages ​​in which I have experience/learned
-#### javascript, php, c#, c, bashscript and little bit of asm x86_64(is used nasm compiler)
+#### javascript, php, c#, bashscript, litle bit of c
 ### other things I've used:
-#### wordpress, mysql, sql, react, bootstrap
+#### wordpress, mysql, sql, react, bootstrap, node
 ### device i use 
 #### 90% of all programs i make on my laptop, sometimes i have had to use my phone to learn something (on phone i used termux)
 ### os that i use:
