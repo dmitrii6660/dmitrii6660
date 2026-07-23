@@ -11,8 +11,7 @@
 #### 90% of all programs i make on my laptop, sometimes i have had to use my phone to learn something (on phone i used termux)
 ### os that i use:
 #### on desktop i use arch linux, but in a special situations change to windows 11 (i have dualboot)
-### testi kuva:
-<img width="800" height="800" alt="conf" src="https://github.com/user-attachments/assets/dc2ac815-5ec2-45e4-ae4c-469d14346584" />
+<img width="1640" height="518" alt="whatisthis67" src="https://github.com/user-attachments/assets/83770572-01c7-4fbb-87b1-e9bd9d8f666e" />
 
 
 <!--
