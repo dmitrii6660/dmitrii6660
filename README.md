@@ -11,6 +11,9 @@
 #### 90% of all programs i make on my laptop, sometimes i have had to use my phone to learn something (on phone i used termux)
 ### os that i use:
 #### on desktop i use arch linux, but in a special situations change to windows 11 (i have dualboot)
+### testi kuva:
+<img width="800" height="800" alt="conf" src="https://github.com/user-attachments/assets/dc2ac815-5ec2-45e4-ae4c-469d14346584" />
+
 
 <!--
 **dmitrii6660/dmitrii6660** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
